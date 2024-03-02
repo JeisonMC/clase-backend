@@ -9,28 +9,23 @@ const todo = [
     {
         userId: 1,
         id : 1,
-        title: 'Pepito Perez',
-        completed: false 
+        title: 'Pepito Perez'
     },{
         userId: 1,
         id : 2,
-        title: 'Carlos Bayesteros',
-        completed: false 
+        title: 'Carlos Bayesteros'
     },{
         userId: 1,
         id : 3,
-        title: 'Yobany Ayala',
-        completed: false 
+        title: 'Yobany Ayala'
     },{
         userId: 1,
         id : 4,
-        title: 'Pedro Vargas',
-        completed: false 
+        title: 'Pedro Vargas'
     },{
         userId: 1,
         id : 5,
-        title: 'Camilo Rodriguez',
-        completed: false 
+        title: 'Camilo Rodriguez'
     }
 ]
 
